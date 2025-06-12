@@ -1,5 +1,5 @@
 # TicTacToe
-TicTacToe Game
+TicTacToe Game<br>
 BGN/Български<br>
 В играта морски шах се играе от двама души или от човек и робот.
 
