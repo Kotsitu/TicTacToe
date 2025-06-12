@@ -25,7 +25,7 @@ It is played with two symbols "X", "O".<br>
 The game is played on a 3x3 field, in which three consecutively connected identical symbols win the game.<br>
 The game in the folder is made on WIN forms (Visual Studio 2022).<br>
 
-The minimum system requirements for this game are as follows:
+<h2><b>The minimum system requirements for this game are as follows:</b></h2>
 OS/Operating system
 * Windows 10 x64 bit
 CPU/Processor
