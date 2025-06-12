@@ -10,14 +10,14 @@ BGN/Български<br>
 <h2><b>Минималните системни изисквания на тази игра са следните:</b></h2><br>
 OS/Операционна система<br> 
 * Windows 10 x64 bit<br>
-CPU/Процесор
-* Intel Core i7 8650U @ 1.90GHz
-RAM
-* 8GB
-Storage/Място
-* 1.13 MB
-GPU/Видео карта
-* UHD Graphics 620
+CPU/Процесор <br>
+* Intel Core i7 8650U @ 1.90GHz <br>
+RAM <br>
+* 8GB <br>
+Storage/Място<br>
+* 1.13 MB<br>
+GPU/Видео карта<br>
+* UHD Graphics 620<br>
 
   ENG/English<br>
 The game of sea chess is played by two people or by a person and a robot.<br>
