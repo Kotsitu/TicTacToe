@@ -19,7 +19,7 @@ Storage/Място
 GPU/Видео карта
 * UHD Graphics 620
 
-  ENG/English
+  ENG/English<br>
 The game of sea chess is played by two people or by a person and a robot.
 It is played with two symbols "X", "O".
 The game is played on a 3x3 field, in which three consecutively connected identical symbols win the game.
