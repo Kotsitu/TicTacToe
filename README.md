@@ -26,13 +26,13 @@ The game is played on a 3x3 field, in which three consecutively connected identi
 The game in the folder is made on WIN forms (Visual Studio 2022).<br>
 
 <h2><b>The minimum system requirements for this game are as follows:</b></h2>
-OS/Operating system
-* Windows 10 x64 bit
-CPU/Processor
-* Intel Core i7 8650U @ 1.90GHz
-RAM
-* 8GB
-Storage/Space
-* 1.13 MB
-GPU/Video card
-* UHD Graphics 620
+OS/Operating system<br>
+* Windows 10 x64 bit<br>
+CPU/Processor<br>
+* Intel Core i7 8650U @ 1.90GHz<br>
+RAM<br>
+* 8GB<br>
+Storage/Space <br>
+* 1.13 MB<br>
+GPU/Video card<br>
+* UHD Graphics 620<br>
